@@ -43,7 +43,7 @@ func main() {
                 return
         }
 
-        // setup app
+        // setup app 
 
         log.Info("Starting listener app")
 
